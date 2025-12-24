@@ -1,16 +1,12 @@
-<p align="center">
-  <img src="https://api.surnex.net/img/logo.png" alt="Surnex Logo" width="300" height="300" />
-</p>
-
-<h1 align="center">🚀 Surnex.net</h1>
+<h1 align="center">🚀 EcoRealms.de</h1>
 <p align="center">
   <b>Dein neues Gaming- & Entwicklungsprojekt</b><br/>
-  Powered by modernem Web- & Ingame-Tech-Stack
+  Powered by Web-, Ingame-Tech-Stack & Community
 </p>
 
 <p align="center">
   <a href="https://github.com/TruaYT">
-    <img src="https://img.shields.io/badge/Author-TruaYT-blue?style=flat-square&logo=github" alt="Author" />
+    <img src="https://img.shields.io/badge/Author-Dev0one-blue?style=flat-square&logo=github" alt="Author" />
   </a>
   <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/License-Private-red?style=flat-square" alt="License" />
@@ -19,21 +15,22 @@
 ---
 
 ## 📖 Über das Projekt
-**Surnex.net** ist ein neues, ambitioniertes Projekt, das innovative Server- und Webtechnologien miteinander kombiniert.  
-Ziel: Eine stabile, skalierbare und benutzerfreundliche Plattform – sowohl **ingame** als auch **online**.
+**EcoRealms** ist ein neues, ambitioniertes Projekt, das innovative Server- und Webtechnologien miteinander kombiniert.  
 
 ---
 
 ## 👨‍💻 Authoren
-- [@TruaYT](https://github.com/TruaYT)
+- [@Dev0one](https://github.com/Dev0one)
 
 ---
 
 ## 🖥 Web Stack
 | Technologie   | Beschreibung |
 |---------------|--------------|
-| **TailwindCSS** | Modernes, schnelles Styling-Framework |
-| **HTML**       | Sauberes, semantisches Grundgerüst |
+| **HTML** | Semantisches Markup zur Strukturierung von Webseiten |
+| **Css** | Styling und Layout von Webseiten |
+| **PHP** | Serverseitige Skriptsprache für Backend-Logik |
+| **JavaScript (JS)** | Interaktive und dynamische Funktionen im Browser |
 
 ---
 
@@ -41,21 +38,21 @@ Ziel: Eine stabile, skalierbare und benutzerfreundliche Plattform – sowohl **i
 | Technologie  | Zweck |
 |--------------|-------|
 | **PaperMC**  | Performanter Minecraft-Server |
-| **WaterFallMC** | Proxy-System für Multi-Server-Setups |
-| **MongoDB**  | NoSQL-Datenbank für persistente Daten |
+| **Velocity** | Proxy-System für Multi-Server-Setups |
+| **MySQL**  | Relationale Datenbank für persistente Spiel- und Nutzerdaten |
 | **Redis**    | Caching & schnelle Ingame-Abfragen |
 | **JSON / GSON** | Datenstrukturierung & -verarbeitung |
-| **Netty**    | Hochperformante Netzwerk-Kommunikation |
-| **SimpleCloud** | Dynamisches Server-Management |
+| **PoloCloud** | Dynamisches Cloud- & Server-Management für Minecraft-Netzwerke |
 
 ---
 
 ## ✨ Features (Geplant & Vorhanden)
-- 🌐 Moderne Website mit TailwindCSS  
-- ⚡ Blitzschnelle Datenverarbeitung mit Redis  
-- 🛠 Dynamische Servererstellung durch SimpleCloud  
-- 📊 Zentrale Datenhaltung in MongoDB  
-- 🔒 Stabilität und Sicherheit im Fokus  
+- 🌐 Moderne Website mit sauberem HTML & CSS
+- 🎨 Individuelles Styling ohne Frameworks (Custom CSS)
+- ⚙️ Dynamische Inhalte durch PHP-Backend
+- 🧠 Interaktive Funktionen mit JavaScript
+- 🔄 Serverseitige Datenverarbeitung und Logik mit PHP
+- 🔒 Stabilität, Sicherheit & Performance im Fokus 
 
 ---
 
@@ -65,8 +62,7 @@ Ziel: Eine stabile, skalierbare und benutzerfreundliche Plattform – sowohl **i
 ---
 
 ## 📬 Kontakt
-- **GitHub:** [TruaYT](https://github.com/TruaYT)
-- **Discord:** [Discord](https://dc.surnex.net)
+- **Discord:** [Discord](https://ecorealms.de/discord)
 
 ---
 
