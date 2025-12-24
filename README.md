@@ -67,5 +67,5 @@
 ---
 
 <p align="center">
-  <sub>© 2025 Surnex.net – All rights reserved.</sub>
+  <sub>© 2025-1026 EcoRealns.de – All rights reserved.</sub>
 </p>
