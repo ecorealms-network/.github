@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TruaYT">
+  <a href="https://github.com/Dev0one">
     <img src="https://img.shields.io/badge/Author-Dev0one-blue?style=flat-square&logo=github" alt="Author" />
   </a>
   <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" alt="Status" />
