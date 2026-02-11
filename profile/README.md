@@ -8,7 +8,7 @@
   <a href="https://github.com/Dev0one">
     <img src="https://img.shields.io/badge/Author-Dev0one-blue?style=flat-square&logo=github" alt="Author" />
   </a>
-  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Revoked-red?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/License-Private-red?style=flat-square" alt="License" />
 </p>
 
@@ -31,6 +31,7 @@
 | **Css** | Styling und Layout von Webseiten |
 | **PHP** | Serverseitige Skriptsprache für Backend-Logik |
 | **JavaScript (JS)** | Interaktive und dynamische Funktionen im Browser |
+| **Node.js** | - |
 
 ---
 
@@ -39,16 +40,17 @@
 |--------------|-------|
 | **PaperMC**  | Performanter Minecraft-Server |
 | **Velocity** | Proxy-System für Multi-Server-Setups |
-| **MySQL**  | Relationale Datenbank für persistente Spiel- und Nutzerdaten |
+| **MariaDB**  | Relationale Datenbank für persistente Spiel- und Nutzerdaten |
 | **Redis**    | Caching & schnelle Ingame-Abfragen |
 | **JSON / GSON** | Datenstrukturierung & -verarbeitung |
+| **Spark Java** | - |
 | **PoloCloud** | Dynamisches Cloud- & Server-Management für Minecraft-Netzwerke |
 
 ---
 
 ## ✨ Features (Geplant & Vorhanden)
 - 🌐 Moderne Website mit sauberem HTML & CSS
-- 🎨 Individuelles Styling ohne Frameworks (Custom CSS)
+- 🎨 Individuelles Styling ohne Frameworks 
 - ⚙️ Dynamische Inhalte durch PHP-Backend
 - 🧠 Interaktive Funktionen mit JavaScript
 - 🔄 Serverseitige Datenverarbeitung und Logik mit PHP
@@ -57,15 +59,15 @@
 ---
 
 ## 📌 Status
-🚧 **Aktuell in Entwicklung** – Code und Features werden regelmäßig erweitert.
+🚧 **Zurüchgezogen** – Code und Features werden regelmäßig erweitert.
 
 ---
 
 ## 📬 Kontakt
-- **Discord:** [Discord](https://ecorealms.de/discord)
+- **Discord:** [Discord](https://discord.gg)
 
 ---
 
 <p align="center">
-  <sub>© 2025-1026 EcoRealns.de – All rights reserved.</sub>
+  <sub>© 2026 EcoRealns.de – All rights reserved.</sub>
 </p>
