@@ -23,27 +23,25 @@
 
 ---
 
-## 🖥 Web Stack
-| Technologie   | Beschreibung |
-|---------------|--------------|
-| **HTML** | Semantisches Markup zur Strukturierung von Webseiten |
-| **Css** | Styling und Layout von Webseiten |
-| **PHP** | Serverseitige Skriptsprache für Backend-Logik |
-| **JavaScript (JS)** | Interaktive und dynamische Funktionen im Browser |
-| **Node.js** | - |
-
----
-
-## 🎮 Ingame Stack
-| Technologie  | Zweck |
-|--------------|-------|
-| **PaperMC**  | Performanter Minecraft-Server |
-| **Velocity** | Proxy-System für Multi-Server-Setups |
-| **MariaDB**  | Relationale Datenbank für persistente Spiel- und Nutzerdaten |
-| **Redis**    | Caching & schnelle Ingame-Abfragen |
-| **JSON / GSON** | Datenstrukturierung & -verarbeitung |
-| **Spark Java** | - |
-| **PoloCloud** | Dynamisches Cloud- & Server-Management für Minecraft-Netzwerke |
+## 🖥 Web/Game/System Stack
+| Technologie         | Beschreibung                                                                                |
+| ------------------- | ------------------------------------------------------------------------------------------- |
+| **HTML**            | Semantisches Markup zur Strukturierung von Webseiten, Dashboards & Player UI                |
+| **CSS**             | Styling und Layout von Webseiten, inkl. responsiver Gestaltung                              |
+| **PHP**             | Serverseitige Skriptsprache für Web-Backend, z. B. Player-Portale, Clan-Systeme             |
+| **JavaScript (JS)** | Interaktive und dynamische Webfunktionen, z. B. Leaderboards, Event-Kalender                |
+| **Node.js**         | Webserver / API-Layer, z. B. für Echtzeitkommunikation oder REST-Dienste                    |
+| **gRPC**            | Schnelle, effiziente Kommunikation zwischen Cloud-Instanzen für Load Balancing & Monitoring |
+| **PaperMC**         | Performanter Minecraft-Server mit Plugin-Support                                            |
+| **Velocity**        | Proxy-System für Multi-Server-Setups, Spielerweiterleitung & Authentifizierung              |
+| **MariaDB**         | Relationale Datenbank für persistente Spiel- und Nutzerdaten (Plots, Economy, Stats)        |
+| **Redis**           | In-Memory Cache für schnelle Ingame-Abfragen, Session-Management, Leaderboards              |
+| **JSON / GSON**     | Datenstrukturierung & -verarbeitung zwischen Proxy, Cloud und Web                           |
+| **Spark Java**      | Lightweight REST API Framework für Velocity / Cloud Services                                |
+| **PoloCloud**       | Dynamisches Cloud- & Server-Management, Auto-Scaling und Multi-Node Instanzen               |
+| **Java**            | Hauptsprache für Proxy, Plugins, Cloud-Services & Backend                                   |
+| **WebSocket / SSE** | Echtzeit-Kommunikation zwischen Proxy, Cloud & Web-Dashboard                                |
+| **Gradle / Maven**  | Build- & Dependency-Management für Java-Projekte                                            |
 
 ---
 
