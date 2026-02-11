@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dev0one">
-    <img src="https://img.shields.io/badge/Author-Dev0one-blue?style=flat-square&logo=github" alt="Author" />
-  </a>
+  <img src="https://img.shields.io/badge/Author-Dev0one-purple?style=flat-square&logo=github" alt="Author" />
   <img src="https://img.shields.io/badge/Status-Revoked-red?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/License-Private-red?style=flat-square" alt="License" />
 </p>
