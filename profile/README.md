@@ -56,7 +56,7 @@
 ---
 
 ## 📌 Status
-🚧 **Zurüchgezogen** – Code und Features werden regelmäßig erweitert.
+🚧 **Zurüchgezogen** – 
 
 ---
 
